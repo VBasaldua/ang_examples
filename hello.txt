@@ -17,3 +17,5 @@ Local Repo:
 4. Git status
 5. Git log # commity history
 6. Git diff # difference between previous commit and existing file version
+
+Branching
