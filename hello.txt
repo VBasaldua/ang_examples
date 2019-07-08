@@ -1,0 +1,10 @@
+hello world
+
+my new line
+
+the third line
+
+1. Git Init
+2. Git add # to add the file for tracking
+3. Git commit # to committing to your local repo
+4. Git status
