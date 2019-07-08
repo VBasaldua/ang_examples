@@ -4,7 +4,16 @@ my new line
 
 the third line
 
+Configuration:
+
+1. Git config --global user.name="Vicente"
+2. Git config --global user.email="habid24@ymail.com"
+
+Local Repo:
+
 1. Git Init
 2. Git add # to add the file for tracking
 3. Git commit # to committing to your local repo
 4. Git status
+5. Git log # commity history
+6. Git diff # difference between previous commit and existing file version
